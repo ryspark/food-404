@@ -1,6 +1,6 @@
 # Food-404
 
-Food-404 is the largest public food image dataset. It consists of 429,000+ images, each labeled into one of 
+Food-404 is the largest labeled public food image dataset. It consists of 429,000+ images, each labeled into one of 
 404 categories. It is a combination of images crawled from Google Images and images from several food datasets, including
 ETH Food-101, UPMC Food-101, UEC Food-256, and UEC Food-101. This dataset is extremely diverse and contains food images from 
 various cultures, including foods from Japanese, Hawaiian, Indonesian, Indian, Korean, Chinese, Italian, German, and 
